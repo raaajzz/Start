@@ -1,2 +1,2 @@
-# test-1
-sample
+# Intro
+This is the start of something great.
